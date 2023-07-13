@@ -1,0 +1,2 @@
+# Car-price-predictor-
+I have recently build this project which have helped me a lot in developing  my skills in making prediction models which are in high demand right now in market. I have build the project through scratch and I have gone through all the development cycle to make this project from data cleaning ,EDA to using various ML algorithm to make prediction . The project is still in development process(I am trying to increase the accuracy of the model to few more percentage)
